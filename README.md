@@ -50,21 +50,20 @@ El estudio de estas plataformas LMS fue motivado por la creciente importancia de
 
 ## 📊 Cuadro comparativo (Opcional)
 
-| Plataforma | Usabilidad | Herramientas Pedagógicas | Personalización | Soporte |
+| Plataforma | Usabilidad | Herramientas Pedagógicas | Personalización  |      Soporte     |
 |------------|------------|--------------------------|------------------|------------------|
 | Moodle     |  Moderada  | Muy completas            |  Muy alta        | Comunidad activa |
 | Blackboard |  Baja      | Avanzadas                | Media            | Soporte pago     |
-| Canvas     |            |                          |                  |                  |
+| Canvas     |  Alta      |	Buen equilibrio          | Limitada         | Soporte rápido   |
 
 ---
 
 ## 🧠 Conclusión
-*(Redacte una síntesis crítica de los hallazgos: ¿qué plataforma resulta más adecuada para determinado contexto?, ¿qué aprendió del análisis?, ¿cómo lo aplicaría en su entorno?)*
+El análisis demostró que no existe una plataforma LMS ideal para todos los casos. Moodle es la mejor opción para instituciones con capacidad técnica y presupuesto limitado, Blackboard resulta adecuado para universidades con necesidades complejas, y Canvas es ideal para entornos que priorizan la usabilidad y la experiencia del usuario. Aplicando estos hallazgos, se recomienda evaluar las necesidades específicas de cada institución antes de seleccionar una plataforma.
 
 ---
 
 ## 📚 Referencias
-*(Incorpore aquí solo las fuentes que realmente haya consultado, en formato APA 7. Mínimo 2 referencias.)*
+- Siemens, G. (2005). Connectivism: A learning theory for the digital age. International Journal of Instructional Technology and Distance Learning, 2(1), 3-10.
 
-> Ejemplo:  
-> Siemens, G. (2005). *Connectivism: A learning theory for the digital age*. International Journal of Instructional Technology and Distance Learning, 2(1), 3-10.
+- Moore, J. L., Dickson-Deane, C., & Galyen, K. (2011). e-Learning, online learning, and distance learning environments: Are they the same? The Internet and Higher Education, 14(2), 129-135.
