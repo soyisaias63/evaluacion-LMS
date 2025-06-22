@@ -25,7 +25,7 @@ El estudio de estas plataformas LMS fue motivado por la creciente importancia de
 - Debilidades:
   - Curva de aprendizaje pronunciada para usuarios no técnicos.
   - Diseño menos intuitivo en comparación con Canvas.
-  - 
+    
 ### Blackboard
 - Características generales:
   Plataforma comercial con enfoque en entornos académicos.
@@ -36,7 +36,7 @@ El estudio de estas plataformas LMS fue motivado por la creciente importancia de
 - Debilidades:
   - Costo elevado de licencias.
   - Interfaz poco amigable para usuarios principiantes.
-  - 
+    
 <img src="https://www.instructure.com/favicon.ico" width="20"> ### Canvas
 - Características generales:
   Plataforma moderna con énfasis en la experiencia del usuario.
