@@ -18,7 +18,7 @@ El estudio de estas plataformas LMS fue motivado por la creciente importancia de
 
 ### Moodle
 - Características generales: Plataforma de código abierto, altamente personalizable, con amplia comunidad de desarrollo.
-  
+  --
 - Fortalezas:.
   - Gratuita (sin costos de licencia).
   - Gran cantidad de plugins y módulos disponibles.
@@ -28,9 +28,14 @@ El estudio de estas plataformas LMS fue motivado por la creciente importancia de
   - Diseño menos intuitivo en comparación con Canvas
 ### Blackboard
 - Características generales:
-- Fortalezas:
+  Plataforma comercial con enfoque en entornos académicos.
+  --
+- Fortalezas
+  - Integración robusta con sistemas institucionales.
+  - Herramientas avanzadas de evaluación y seguimiento.
 - Debilidades:
-
+  - Costo elevado de licencias.
+  - Interfaz poco amigable para usuarios principiantes.
 ### Canvas
 - Características generales:
 - Fortalezas:
