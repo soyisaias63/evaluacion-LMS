@@ -38,6 +38,7 @@ El estudio de estas plataformas LMS fue motivado por la creciente importancia de
   - Interfaz poco amigable para usuarios principiantes.
   - 
 ### Canvas
+<img src="https://www.instructure.com/favicon.ico" width="20"> Canvas LMS
 - Características generales:
   Plataforma moderna con énfasis en la experiencia del usuario.
   --
