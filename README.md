@@ -49,7 +49,7 @@ El estudio de estas plataformas LMS fue motivado por la creciente importancia de
   - Costos pueden ser prohibitivos para pequeñas instituciones.
 ---
 
-## 📊 Cuadro comparativo (Opcional)
+## 📊 Cuadro comparativo
 
 | Plataforma | Usabilidad | Herramientas Pedagógicas | Personalización  |      Soporte     |
 |------------|------------|--------------------------|------------------|------------------|
