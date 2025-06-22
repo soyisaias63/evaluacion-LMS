@@ -67,4 +67,4 @@ El análisis demostró que no existe una plataforma LMS ideal para todos los cas
 ## 📚 Referencias
 - Segovia-García, N. (2024). Análisis multidimensional de plataformas educativas: Canvas vs. Moodle en la educación superior. Revista Virtual Universidad Católica Del Norte, (72), 4–39. https://doi.org/10.35575/rvucn.n72a2
 
-- Moore, J. L., Dickson-Deane, C., & Galyen, K. (2011). e-Learning, online learning, and distance learning environments: Are they the same? The Internet and Higher Education, 14(2), 129-135.
+- Aliaga, C. L. y Dávila, O. M. (2021). La plataforma Blackboard: una herramienta para el proceso de enseñanza-aprendizaje. Hamut´ay, 8(1), 42-58. http://dx.doi.org/10.21503/hamu.v8i1.2237
