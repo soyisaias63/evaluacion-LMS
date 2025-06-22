@@ -65,6 +65,6 @@ El análisis demostró que no existe una plataforma LMS ideal para todos los cas
 ---
 
 ## 📚 Referencias
-- Siemens, G. (2005). Connectivism: A learning theory for the digital age. International Journal of Instructional Technology and Distance Learning, 2(1), 3-10.
+- Segovia-García, N. (2024). Análisis multidimensional de plataformas educativas: Canvas vs. Moodle en la educación superior. Revista Virtual Universidad Católica Del Norte, (72), 4–39. https://doi.org/10.35575/rvucn.n72a2
 
 - Moore, J. L., Dickson-Deane, C., & Galyen, K. (2011). e-Learning, online learning, and distance learning environments: Are they the same? The Internet and Higher Education, 14(2), 129-135.
