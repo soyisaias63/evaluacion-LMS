@@ -3,7 +3,7 @@ Reseña critica comparativa sobre tres plataformas de gestión del aprendizaje (
 # Comparativa de Plataformas LMS: Moodle, Blackboard y Canvas
 
 ## 📝 Resumen
-*(Escriba aquí un párrafo entre 150 y 250 palabras que explique el propósito del análisis, el procedimiento realizado y los hallazgos principales. Debe estar redactado en pasado.)*
+Este análisis comparativo tuvo como objetivo evaluar las plataformas de gestión del aprendizaje (LMS) Moodle, Blackboard y Canvas, con el fin de identificar sus características, fortalezas y debilidades en contextos educativos. El procedimiento consistió en revisar documentación oficial, experiencias de usuarios y artículos especializados, centrándose en aspectos como usabilidad, herramientas pedagógicas, personalización y soporte. Los hallazgos principales revelaron que Moodle destaca por su flexibilidad y código abierto, Blackboard por su robustez en entornos institucionales, y Canvas por su interfaz intuitiva y enfoque en la experiencia del usuario. La elección de la plataforma más adecuada dependerá de las necesidades específicas de cada institución.
 
 ## 🔑 Palabras clave
 *(Escriba aquí cinco palabras clave separadas por comas y en orden alfabético. Ejemplo: aprendizaje virtual, Blackboard, Canvas, Moodle, plataformas LMS)*
