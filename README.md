@@ -38,18 +38,23 @@ El estudio de estas plataformas LMS fue motivado por la creciente importancia de
   - Interfaz poco amigable para usuarios principiantes.
 ### Canvas
 - Características generales:
+  Plataforma moderna con énfasis en la experiencia del usuario.
+  --
 - Fortalezas:
+ - Interfaz intuitiva y fácil de usar.
+ - Soporte técnico eficiente.
 - Debilidades:
-
+  - Limitaciones en personalización avanzada.
+  - Costos pueden ser prohibitivos para pequeñas instituciones.
 ---
 
 ## 📊 Cuadro comparativo (Opcional)
 
 | Plataforma | Usabilidad | Herramientas Pedagógicas | Personalización | Soporte |
-|------------|------------|--------------------------|------------------|---------|
-| Moodle     |            |                          |                  |         |
-| Blackboard |            |                          |                  |         |
-| Canvas     |            |                          |                  |         |
+|------------|------------|--------------------------|------------------|------------------|
+| Moodle     |  Moderada  | Muy completas            |  Muy alta        | Comunidad activa |
+| Blackboard |  Baja      | Avanzadas                | Media            | Soporte pago     |
+| Canvas     |            |                          |                  |                  |
 
 ---
 
